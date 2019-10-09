@@ -128,7 +128,6 @@
     }
   },
   "tourism/hotel|Courtyard": {
-    "countryCodes": ["ca", "us"],
     "matchNames": ["courtyard marriott"],
     "tags": {
       "brand": "Courtyard",
